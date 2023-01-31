@@ -1,0 +1,1 @@
+(self.webpackChunkcontainer=self.webpackChunkcontainer||[]).push([[787],{787:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>s});var r=t(212),u=t.n(r),c=t(489);const s=()=>{const e=(0,r.useRef)(null);return(0,r.useEffect)((()=>{(0,c.mount)(e.current)}),[]),u().createElement("div",{ref:e})}}}]);
